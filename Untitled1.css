@@ -1,0 +1,19 @@
+@import url(http://font.googleapis.com/earlyaccess/nanumgothic.css);
+*{
+      font-family:  'Nanum Gothic';
+  }
+ a{
+      color: #000000;
+      
+  }
+ a:hover {
+      color: #bbbbbb;
+      cursor: pointer;
+  }
+
+  
+.navbar-default .navbar-brand{
+    color: #000000;
+}
+
+
